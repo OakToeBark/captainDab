@@ -16,7 +16,7 @@ form{
 /* Home */
 
 html.home{
-	background: #EDECEA;
+	background: #FFF;
 }
 
 #home{
@@ -39,10 +39,10 @@ html.home{
 	margin: 0 auto;
 }
 
-#home .hero .large{
+#home .hero .large{ /* Creator Aracde is coming text*/
 	font-weight: bold;
 	font-size: 40px;
-	color: #074E6F;
+	color: #000000;
 	text-transform: uppercase;
 	margin: 85px 0 0 136px;
 	position: relative;
@@ -50,9 +50,9 @@ html.home{
 	letter-spacing: 2px;
 }
 
-#home .hero .small{
+#home .hero .small{ /* Learn EDM alongside the world's best DJ's */
 	font-weight: bold;
-	color: #955F5D;
+	color: #ff003f;
 	font-size: 18px;
 	margin: 10px 0 0 115px;
 	line-height: 30px;
@@ -81,7 +81,7 @@ html.home{
 #home .form-wrap .byline{
 	font-size: 15px;
 	text-transform: uppercase;
-	color: #074E6F;
+	color: #ff003f;
 	text-align: center;
 	font-weight: bold;
 	letter-spacing: 2px;
@@ -92,7 +92,7 @@ html.home{
 	float: left;
 	font-size: 13px;
 	padding: 8px 0 8px 10px;
-	border: 1px solid #074E6F;
+	border: 1px solid #000000;
 	width: 256px;
 	outline: none;
 	letter-spacing: 1px;
@@ -100,7 +100,7 @@ html.home{
 
 #home .form-wrap .submit{
 	width: 143px;
-	background: #074E6F;
+	background: #ff003f;
 	float: left;
 	height: 37px;
 	line-height: 37px;
@@ -232,7 +232,7 @@ html.home{
 }
 
 .brandon{
-	font-family: "Brandon Grotesque", "brandon-grotesque", "HelveticaNeue", "Helvetica", "Arial", sans-serif;
+	font-family: "Avenir Next", "Brandon Grotesque", "brandon-grotesque", "HelveticaNeue", "Helvetica", "Arial", sans-serif;
 }
 
 #refer{
@@ -248,7 +248,7 @@ html.home{
 
 #refer .header{
 	height: 50px;
-	background: #074E6F;
+	background: #000000;
 	width: 100%;
 	overflow:hidden;
 	z-index: 1;
@@ -286,7 +286,7 @@ html.home{
 }
 
 #refer .hero{
-	background: #F1F0EE;
+	background: #000000;
 	height: 391px;
 	overflow: hidden;
 }
@@ -325,30 +325,30 @@ html.home{
 
 #refer .share-wrap .why{
 	font-size: 16px;
-	color: #555556;
+	color: #FFF;
 	font-weight: bold;
 	margin-top: 42px;
 }
 
-#refer .share-wrap .title{
+#refer .share-wrap .title{ /* Invite friends and get cool shit */
 	font-size: 30px;
 	line-height: 40px;
 	text-transform: uppercase;
 	font-weight: bold;
-	color: #074E6F;
+	color: #6AE368;
 	margin-top: 18px;
 	letter-spacing: .13em;
 }
 
-#refer .share-wrap .subtitle{
-	color: #565656;
+#refer .share-wrap .subtitle{ /* Share your unique referal link */
+	color: #FFF;
 	font-size: 14px;
 	text-transform: none;
 	margin-top: 15px;
 }
 
-#refer .share-wrap .copy-link{
-	border: 1px solid #D1D0C7;
+#refer .share-wrap .copy-link{ /* Referral share link */
+	border: 1px solid #6AE368;
 	background: #FFF;
 	padding: 10px 0;
 	width: 320px;
@@ -368,14 +368,14 @@ html.home{
 	display: inline-block;
 }
 
-#refer .share-wrap .social-links .fb{
+#refer .share-wrap .social-links .fb{ /* fix the white borders on icon */
 	background: image-url("refer/fb.png");
 	background-size: 27px 27px;
 	width: 27px;
 	height: 27px;
 }
 
-#refer .share-wrap .social-links .twit{
+#refer .share-wrap .social-links .twit{ /* fix the white borders on the icon */
 	background: image-url("refer/twit.png");
 	background-size: 27px 27px;
 	width: 27px;
@@ -385,13 +385,13 @@ html.home{
 #refer .share-wrap .social-links .sep{
 	height: 28px;
 	width: 1px;
-	background: #BAB9BA;
+	background: #000000;
 	margin: 0 20px;
 }
 
 #refer .prizes{
 	width: 100%;
-	background: #FFF;
+	background: #0FFF;
 	border-top: 1px solid #D2D1C8;
 	padding-bottom: 100px;
 }
@@ -403,14 +403,14 @@ html.home{
 #refer .prizes .callout{
 	text-align: center;
 	font-size: 16px;
-	color: #074E6F;
+	color: #000000;
 	font-weight: bold;
 	margin: 20px 0 0 0;
 	letter-spacing: 2px;
 	text-transform: uppercase;
 }
 
-#refer .prizes .progress{
+#refer .prizes .progress{ /* Change a color of the progress bar */
 	height: 4px;
 	width: 100%;
 	background: image-url("refer/progress-bg.png") 0 0 repeat-x;
@@ -451,7 +451,7 @@ html.home{
 #refer .prizes .products li.title{
 	height: 100%;
 	text-transform: uppercase;
-	color: #074E6F;
+	color: #000000;
 	font-weight: 500;
 	font-size: 14px;
 	float: left;
@@ -472,7 +472,7 @@ html.home{
 
 #refer .prizes .products li.product{
 	height: 100%;
-	color: #074E6F;
+	color: #000000;
 	width: 125px;
 	margin-right: 129px;
 	float: left;
@@ -540,14 +540,14 @@ html.home{
 
 #refer .prizes .products li.product:hover .circle{
 	color: #FFF;
-	background: #074E6F;
-	border-color: #074E6F;
+	background: #6AE368;
+	border-color: #6AE368;
 }
 
 #refer .prizes .products li.product .tooltip{
 	height: 254px;
 	width: 190px;
-	border: 4px solid #074E6F;
+	border: 4px solid #000000;
 	position: absolute;
 	top: -285px;
 	left: -32px;
@@ -567,20 +567,20 @@ html.home{
 #refer .prizes p.place{
 	text-align: center;
 	font-size: 16px;
-	color: #074E6F;
+	color: #000000;
 	width: 100%;
 	font-weight: 500;
 	margin-top: 30px;
 }
 
 #refer .prizes p.place span{
-	color: #995F5E;
+	color: #000000;
 }
 
 #refer .prizes p.check{
 	text-align: center;
 	font-size: 16px;
-	color: #858181;
+	color: #ff003f;
 	width: 100%;
 	font-weight: 500;
 	margin-top: 5px;
@@ -589,7 +589,7 @@ html.home{
 #refer .prizes p.ship{
 	text-align: center;
 	font-size: 16px;
-	color: #858181;
+	color: #000000;
 	width: 100%;
 	font-weight: 500;
 	margin-top: 50px;
@@ -670,44 +670,3 @@ only screen and (min-device-pixel-ratio: 2) {
 		background-size: 16px 10px;
 	}
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
